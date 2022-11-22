@@ -11,6 +11,3 @@ Tools used :
 - Excel  
 - Microsoft SQL Server  
 - Tableau   
-
-i want a overview with videos and pictures , please visit my portfolio website :   
-Madjiderr.dorik.io
